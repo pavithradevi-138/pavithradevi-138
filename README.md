@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🌟 Full-Stack MERN Developer in Progress | React.js Specialist 🌟
 -----------------------------------------------------------------
 
-Hi there! I'm a passionate front-end developer with 2 years of experience in React.js, bringing dynamic and responsive web applications to life. With hands-on experience across the development lifecycle, I'm currently enhancing my skills in the MERN stack to transition into a full-stack developer role. My journey has also led me through WordPress development, where I gained solid experience in building functional, engaging websites. 💻 Tech Stack: JavaScript | React.js | Node.js | Express | MongoDB | WordPress 🌱 Currently Exploring: Advanced MERN concepts and full-stack project architectures 🚀 Projects: Inventory management, hall booking systems, and e-commerce websites Let's connect, collaborate, and code!
+Hi there! I'm a passionate front-end developer with 2 years of experience in React.js, bringing dynamic and responsive web applications to life. With hands-on experience across the development lifecycle, I'm enhancing my MERN stack skills to transition into a full-stack developer role. My journey has also led me through WordPress development, where I gained solid experience in building functional, engaging websites. 
+💻 Tech Stack: JavaScript | React.js | Node.js | Express | MongoDB | WordPress 
+🌱 Currently Exploring: Advanced MERN concepts and full-stack project architectures 
+🚀 Projects: Inventory management, hall booking systems, and e-commerce websites 
+Let's connect, collaborate, and code!
 
-* 🌍  I'm based in Srivilliputtur
 * ✉️  You can contact me at [pavithradevi138.dev@gmail.com](mailto:pavithradevi138.dev@gmail.com)
-* 🧠  I'm learning MERN Stack
-
+* 🌍  I'm based in Srivilliputtur
 
 ### Skills
 
