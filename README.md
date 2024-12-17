@@ -11,7 +11,7 @@ Hi there! I'm a passionate front-end developer with 2 years of experience in Rea
 Let's connect, collaborate, and code! <br/>
 
 * ✉️  You can contact me at [pavithradevi138.dev@gmail.com](mailto:pavithradevi138.dev@gmail.com)
-* 🌍  I'm based in Srivilliputtur
+* 🌍  I'm based in Madurai.
 
 ### Skills
 
